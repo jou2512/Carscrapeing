@@ -43,3 +43,25 @@ def scrape_data(brand: str, model: str, build_year: int, engine_hp: str):
             "Gain": torque_gain,
         },
     }
+
+
+def scrape_manufacturers(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, 'html.parser')
+        manufacturers = soup.select('small.manufacturer')
+        return [manufacturer.text for manufacturer in manufacturers]
+    else:
+        return []
+
+
+@app.get("/manufacturers")
+def scrape_and_save():
+    url = 'https://www.olsx.lu/en/chiptuning'
+    manufacturers = scrape_manufacturers(url)
+    if manufacturers:
+        with open('manufacturers.txt', 'w') as file:
+            file.write('\n'.join(manufacturers))
+        return {'message': 'Scraping and saving completed successfully!'}
+    else:
+        return {'message': 'Error accessing the URL or no manufacturers found.'}

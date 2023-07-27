@@ -1,0 +1,258 @@
+Abarth
+Alfa Romeo
+Alpina
+Alpine
+Ariel
+Artega
+Aston Martin
+Audi
+Bentley
+BMW
+Borgward
+Bugatti
+Buick
+Cadillac
+Caterham
+Changan
+Chevrolet
+Chrysler
+Citroen
+Cupra
+Dacia
+Daewoo
+Dallara
+Dodge
+Dongfeng
+Donkervoort
+DS
+Ferrari
+Fiat
+Ford
+Geely
+Genesis
+GMC
+GWM
+Hawtai
+Hino
+Holden
+Honda
+Hummer
+Hyundai
+Infiniti
+Isuzu
+Iveco
+Jac
+Jaguar
+Jeep
+Kia
+KTM
+Lada
+Lamborghini
+Lancia
+Land-Rover
+Lexus
+Lincoln
+Lotus
+Lynk & Co
+Mahindra
+Man
+Maserati
+Maxus
+Mazda
+McLaren
+Mercedes
+MG
+Mini
+Mitsubishi
+Morgan
+Mustang
+Nissan
+Opel
+Pagani
+Peugeot
+Polestar
+Porsche
+Renault
+Rolls Royce
+Rover
+Saab
+Seat
+Secma
+Skoda
+Smart
+SsangYong
+Subaru
+Suzuki
+Tata
+Toyota
+Vinfast
+Volkswagen
+Volvo
+Westfield
+Aprilia
+Benelli
+BMW Motorrad
+CFMOTO
+Ducati
+FB Mondial
+Harley-Davidson
+Honda
+Husqvarna
+Indian Motorcycle
+Kawasaki
+Keeway
+KTM
+Linhai
+Mash motorcycles
+MV Agusta
+Royal Alloy
+Suzuki
+Triumph
+Yamaha
+Zontes
+Aebi Schmidt
+Agco
+Agrale
+Agrifac
+Albach
+Amazone
+Antonio Carraro
+Arbos
+Artec
+Avant
+Bateman
+Belarus
+Berthoud
+Bobard
+Bombardier
+Bourgoin
+Buhler Versatile
+Caffini
+Camox
+Caron
+Case Construction
+Case IH
+Caterpillar
+Challenger
+Claas
+CMI
+CML
+Deutz
+Dieci
+Doosan
+Doppstadt
+Eco Log
+Energreen
+Erkunt
+Everun
+Faresin
+Farmtrac
+Fendt
+Gleaner
+Gremo
+Grimme
+Guaresi
+Hagie
+Halcon
+Hardi
+Hitachi
+Holmer
+Horsch
+Hortech
+Hurlimann
+Hyundai (Trucks)
+Italmix
+Jacto
+Jarraff
+JCB
+Jenz
+John Deere
+Kioti
+Kubota
+Kuhn
+Lamborghini
+Landini
+Lännen
+Laverda
+Linde
+Lindner
+Logset
+LS tractor
+Lundberg
+MacDON
+Manitou
+Massey Ferguson
+Matrot
+MAzzotti
+Mc Cormick
+Merlo
+New Holland
+Pellenc
+Ponsse
+Pouchain
+Rostselmash
+Rottne
+Same
+Sennebogen
+Steyr
+Storti
+Tecnoma
+Tigercat
+Valtra
+Vermeer
+Versa
+Weidemann
+Yale
+Yanmar
+Zetor
+Alexander Dennis
+Ammann
+Arjes
+Astra
+ASV
+Atlas
+Atlas Copco
+Avia
+Caetano
+Chevrolet Trucks
+Cummins
+Daewoo (Trucks)
+DAF
+Denning
+Ford (Trucks)
+Freightliner
+International
+Isuzu Truck
+Iveco Truck
+Kenworth
+King Long Buses
+Mack Truck
+Man Trucks
+Maz Minsk
+Mercedes Truck
+Mitsubishi Fuso
+Neoplan
+Peterbilt
+Renault  (Trucks)
+Scania
+Setra
+Sinotruk
+Tata (Trucks)
+Temsa
+Toyota
+Van Hool
+Volare
+Volkswagen (Trucks)
+Volvo  (Trucks)
+Western Star
+XCMG
+Yutong
+Kawasaki (Marine)
+Lynx
+Sea-doo
+Aeon
+Baltmotors
+Can-Am
+CFMOTO Quad
+Polaris
+Segway
